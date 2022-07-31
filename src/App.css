@@ -1,0 +1,26 @@
+.body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+button.girlName {
+    font-size: large;
+    text-align: center;
+    border: 2px solid #f079a5;
+    background: #ffc8dd;
+    width: 140px;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 3px;
+}
+
+button.boyName {
+    font-size: large;
+    text-align: center;
+    border: 2px solid #6babe7;
+    background: #d1e9ff;
+    width: 140px;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 3px;
+}
